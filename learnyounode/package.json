@@ -1,0 +1,26 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "Learn your node tutorial",
+  "main": "program.js",
+  "dependencies": {
+    "learnyounode": "^3.5.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JonVC",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mag1ster/short_node.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/mag1ster/short_node/issues"
+  },
+  "homepage": "https://github.com/mag1ster/short_node#readme"
+}
